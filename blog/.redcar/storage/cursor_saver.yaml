@@ -1,0 +1,36 @@
+--- 
+cursor_positions: 
+  - :path: config/routes.rb
+    :cursor_offset: 47
+    :timestamp: 2013-08-03 12:04:59 +03:00
+  - :path: db/migrate/20130803091102_create_posts.rb
+    :cursor_offset: 0
+    :timestamp: 2013-08-03 12:11:02 +03:00
+  - :path: Gemfile.lock
+    :cursor_offset: 0
+    :timestamp: 2013-08-03 12:30:17 +03:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 199
+    :timestamp: 2013-08-03 12:41:35 +03:00
+  - :path: Gemfile
+    :cursor_offset: 544
+    :timestamp: 2013-08-03 12:32:23 +03:00
+  - :path: app/models/post.rb
+    :cursor_offset: 49
+    :timestamp: 2013-08-03 12:25:12 +03:00
+  - :path: app/controllers/posts_controller.rb
+    :cursor_offset: 280
+    :timestamp: 2013-08-03 13:42:56 +03:00
+  - :path: app/views/posts/index.html.erb
+    :cursor_offset: 192
+    :timestamp: 2013-08-03 13:29:23 +03:00
+  - :path: app/views/posts/show.html.erb
+    :cursor_offset: 86
+    :timestamp: 2013-08-03 13:24:10 +03:00
+  - :path: app/views/posts/new.html.erb
+    :cursor_offset: 240
+    :timestamp: 2013-08-03 13:35:23 +03:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 299
+    :timestamp: 2013-08-03 13:41:03 +03:00
+files_to_retain: 0

@@ -1,0 +1,8 @@
+--- 
+open_files: 
+  - app/models/post.rb
+  - app/controllers/posts_controller.rb
+  - app/views/posts/index.html.erb
+  - app/views/posts/show.html.erb
+  - app/views/posts/new.html.erb
+  - app/views/layouts/application.html.erb
